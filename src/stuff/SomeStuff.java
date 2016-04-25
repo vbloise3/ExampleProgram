@@ -23,3 +23,4 @@ public class SomeStuff {
         this.value = value;
     }
 }
+
